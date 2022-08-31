@@ -1,0 +1,51 @@
+body {
+        
+    background-color: #E8E8E8;
+    font-size: 100%;
+}
+
+h3 {
+    font-family: Cursive;
+    font-size: 200%;
+}
+
+textarea {
+    width: 70%;
+    font-family: Cursive;
+    font-size: 100%;
+}
+
+table {
+    font-family: Cursive;
+    padding: 2px;
+    font-size: 100%;
+}
+
+td {
+    text-align: center;
+    padding: 2px;
+    font-size: 100%;
+}
+
+th {
+    width: 90px;
+}
+
+#button1 {
+    font-family: Cursive;
+    background-color: #C8C8C8;
+    border: none;
+    width: 15%;
+    height: 25px;
+    font-size: 100%;
+
+}
+
+button {
+    background-color: white;
+    font-family: Cursive;
+    font-size: 100%;
+    border: none;
+    font-weight: bold;
+    border-style: outset;
+}
